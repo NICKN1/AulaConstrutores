@@ -1,0 +1,16 @@
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\bin\Debug\net5.0\MeusExemplosConstrutores.exe
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\bin\Debug\net5.0\MeusExemplosConstrutores.deps.json
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\bin\Debug\net5.0\MeusExemplosConstrutores.runtimeconfig.json
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\bin\Debug\net5.0\MeusExemplosConstrutores.runtimeconfig.dev.json
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\bin\Debug\net5.0\MeusExemplosConstrutores.dll
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\bin\Debug\net5.0\ref\MeusExemplosConstrutores.dll
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\bin\Debug\net5.0\MeusExemplosConstrutores.pdb
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.csproj.AssemblyReference.cache
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.AssemblyInfoInputs.cache
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.AssemblyInfo.cs
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.dll
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\ref\MeusExemplosConstrutores.dll
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.pdb
+C:\Users\irani\OneDrive\Documentos\Aula Construtores\MeusExemplosConstrutores\obj\Debug\net5.0\MeusExemplosConstrutores.genruntimeconfig.cache
